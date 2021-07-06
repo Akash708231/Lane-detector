@@ -29,7 +29,7 @@ Software designed in :
 4. Matplotlib libraries are used.
 
 # Usage 
-This Project is made as a part of my Project for the Image processing subject that I studied I my college
+This Project is made as a part of my Project for the Image processing subject that I studied I my college.
 
 # Contributors
 <a href = "https://github.com/ISHITVAVERMA">1. Ishitva Verma </a></br>
