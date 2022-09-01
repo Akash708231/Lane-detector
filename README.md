@@ -1,4 +1,4 @@
-# Road Detection Articulation -------> Roadify
+# Road Detection Articulation -------> Roadify (Project Name)
 
 Image Processing project developed to assist drivers using camera data, the designed software led to a decrease in time and space complexities of the conventional
 methods to the same approach.
